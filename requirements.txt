@@ -1,0 +1,4 @@
+requests
+httpcore==0.12.1
+httpx==0.17.1
+dnspython==1.16.0
